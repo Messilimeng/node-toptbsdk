@@ -1,0 +1,31 @@
+{
+  "name": "node-toptbsdk",
+  "version": "1.0.0",
+  "description": "this is  taobao ke top sdk for nodejs",
+  "main": "./lib/topClient.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Messilimeng/node-toptbsdk.git"
+  },
+  "keywords": [
+    "taobao",
+    "淘宝",
+    "淘宝客",
+    "top-client",
+    "nodejs",
+    "node",
+    "JavaScript"
+  ],
+  "author": "limeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Messilimeng/node-toptbsdk/issues"
+  },
+  "homepage": "https://github.com/Messilimeng/node-toptbsdk#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
